@@ -11,4 +11,47 @@ package polymorphism;
 import polymorphism.newshape.*;
 
 public class E03_NewShapeMethod {
-}
+    public static void main(String[] args) {
+        Shape[] shapes = {new Circle(), new Square(), new Triangle()};
+        //Make polymorphic method calls:
+        for(Shape shape : shapes){
+            shape.draw();
+            shape.erase();
+            shape.msg();
+        }
+    }
+} /* Output:
+Circle.draw()
+Circle.erase()
+Circle.msg()
+Square.draw()
+Square.erase()
+Square.msg()
+Triangle.draw()
+Triangle.erase()
+Triangle.msg()
+
+
+Circle.draw()
+Circle.erase()
+Base class msg()
+Square.draw()
+Square.erase()
+Base class msg()
+Triangle.draw()
+Triangle.erase()
+Base class msg()
+
+Circle.draw()
+Circle.erase()
+Circle.msg()
+Square.draw()
+Square.erase()
+Base class msg()
+Triangle.draw()
+Triangle.erase()
+Base class msg()
+
+
+*///:~
+

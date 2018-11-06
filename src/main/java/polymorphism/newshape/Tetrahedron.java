@@ -1,7 +1,6 @@
-//: polymorphism/newshape/Circle.java
 package polymorphism.newshape;
 
-public class Circle extends Shape {
+public class Tetrahedron extends Shape {
     @Override
     public void draw() {
         System.out.println("Circle.draw()");

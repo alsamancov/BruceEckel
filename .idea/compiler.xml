@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eckel" target="1.7" />
+      <module name="eckel" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
