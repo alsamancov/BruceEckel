@@ -7,22 +7,27 @@
 package polymorphism;
 import polymorphism.newshape.*;
 
-import java.util.List;
-
 public class E04_NewShapeType {
     public static void main(String[] args) {
         Shape[] shapes = {new Circle(), new Square(), new Triangle(), new Tetrahedron()};
-        List<Shape> shapeList = List.of(new Circle(), new Square(), new Triangle(), new Tetrahedron());
         for(Shape shape : shapes){
             shape.draw();
             shape.erase();
             shape.msg();
         }
-
-        for(Shape shape : shapeList){
-            shape.draw();
-            shape.erase();
-            shape.msg();
-        }
     }
-}
+} /* Output:
+Circle.draw()
+Circle.erase()
+Circle.msg()
+Square.draw()
+Square.erase()
+Square.msg()
+Triangle.draw()
+Triangle.erase()
+Triangle.msg()
+Tetrahedron.draw()
+Tetrahedron.erase()
+Tetrahedron.msg()
+*///:~
+

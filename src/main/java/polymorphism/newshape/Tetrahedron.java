@@ -4,16 +4,16 @@ package polymorphism.newshape;
 public class Tetrahedron extends Shape {
     @Override
     public void draw() {
-        System.out.println("Circle.draw()");
+        System.out.println("Tetrahedron.draw()");
     }
 
     @Override
     public void erase() {
-        System.out.println("Circle.erase()");
+        System.out.println("Tetrahedron.erase()");
     }
 
     @Override
     public void msg() {
-        System.out.println("Circle.msg()");
+        System.out.println("Tetrahedron.msg()");
     }
 } ///:~
