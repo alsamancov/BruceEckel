@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b7e070-aae9-42bc-a3cd-3b1a3d4d841a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/CovariantReturn.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/E12_RodentInitialization.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/E13_VerifiedRefCounting/E13_VerifiedRefCounting.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/E14_SharedRodentInitialization.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/E15_PolyConstructors2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/E16_Starship.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/E17_RTTI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Frog.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/PolyConstructors.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/RTTI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/ReferenceCounting.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Transmogrify.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Bicycle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Unicycle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tuft/eckel/polymorphism_ex/music/E01_Upcasting.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tuft/eckel/polymorphism_ex/music/Music2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/interfaces/E01_AbstractRodent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/interfaces/E02_Abstract.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/interfaces/E03_Initialization.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/interfaces/E04_AbstractBase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/interfaces/music4/Music4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,79 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PolyConstructors.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/PolyConstructors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="39" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#885#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E15_PolyConstructors2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E15_PolyConstructors2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="15" column="76" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#1138#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CovariantReturn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/CovariantReturn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="39" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transmogrify.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Transmogrify.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#840#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="E16_Starship.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E16_Starship.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="0">
               <caret line="66" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding>
                 <element signature="e#0#1388#0" expanded="true" />
@@ -122,47 +47,166 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RTTI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/RTTI.java">
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tuft/eckel/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#768#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E17_RTTI.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E17_RTTI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#1153#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bicycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Bicycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Unicycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Unicycle.java">
+      <file leaf-file-name="Music4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/music4/Music4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#2151#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#939#940#0" expanded="true" />
+                <element signature="e#972#973#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="e#1122#1123#0" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
+                <element signature="e#1202#1203#0" expanded="true" />
+                <element signature="e#1266#1267#0" expanded="true" />
+                <element signature="e#1324#1325#0" expanded="true" />
+                <element signature="e#1352#1353#0" expanded="true" />
+                <element signature="e#1385#1386#0" expanded="true" />
+                <element signature="e#1632#1633#0" expanded="true" />
+                <element signature="e#1678#1679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E01_AbstractRodent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E01_AbstractRodent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="88" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#1959#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#983#984#0" expanded="true" />
+                <element signature="e#1040#1041#0" expanded="true" />
+                <element signature="e#1072#1073#0" expanded="true" />
+                <element signature="e#1103#1104#0" expanded="true" />
+                <element signature="e#1161#1162#0" expanded="true" />
+                <element signature="e#1214#1215#0" expanded="true" />
+                <element signature="e#1242#1243#0" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+                <element signature="e#1328#1329#0" expanded="true" />
+                <element signature="e#1386#1387#0" expanded="true" />
+                <element signature="e#1418#1419#0" expanded="true" />
+                <element signature="e#1450#1451#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E02_Abstract.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E02_Abstract.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#530#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E03_Initialization.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E03_Initialization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#1017#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E04_AbstractBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E04_AbstractBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="27" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#1280#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Music5.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1479">
+              <caret line="87" column="33" lean-forward="false" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#2087#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
+                <element signature="e#1194#1195#0" expanded="true" />
+                <element signature="e#1224#1225#0" expanded="true" />
+                <element signature="e#1288#1289#0" expanded="true" />
+                <element signature="e#1321#1322#0" expanded="true" />
+                <element signature="e#1568#1569#0" expanded="true" />
+                <element signature="e#1614#1615#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -198,15 +242,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/shape/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/shape/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/shape/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/Shapes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/shape/RandomShapeGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/oshape/Squar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/oshape/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/oshape/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism/oshape/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/polymorphism/E02_Shapes.java" />
         <option value="$PROJECT_DIR$/src/main/java/polymorphism/oshape/RandomShapeGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/polymorphism/newshape/Shape.java" />
@@ -249,6 +284,15 @@
         <option value="$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Unicycle.java" />
         <option value="$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Bicycle.java" />
         <option value="$PROJECT_DIR$/src/main/java/polymorphism/E17_RTTI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tuft/eckel/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/music4/Music4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/E01_AbstractRodent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/E02_Abstract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/E03_Initialization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/E04_AbstractBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tuft/eckel/polymorphism_ex/music/Music2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tuft/eckel/polymorphism_ex/music/E01_Upcasting.java" />
       </list>
     </option>
   </component>
@@ -288,8 +332,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,12 +363,91 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+              <item name="E01_Upcasting.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+              <item name="Music2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="music5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="music5" type="462c0819:PsiDirectoryNode" />
+              <item name="Music5.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -357,7 +478,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E15_PolyConstructors2">
+  <component name="RunManager" selected="Application.Music2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -365,33 +486,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="E13_VerifiedRefCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="E01_AbstractRodent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="polymorphism.E13_VerifiedRefCounting.*" />
+          <option name="PATTERN" value="interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="polymorphism.E13_VerifiedRefCounting.E13_VerifiedRefCounting" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="eckel" />
-      <envs />
-    </configuration>
-    <configuration name="E14_SharedRodentInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="polymorphism.E14_SharedRodentInitialization" />
+      <option name="MAIN_CLASS_NAME" value="interfaces.E01_AbstractRodent" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -422,14 +524,14 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="PolyConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Music2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="com.tuft.eckel.polymorphism_ex.music.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="polymorphism.PolyConstructors" />
+      <option name="MAIN_CLASS_NAME" value="com.tuft.eckel.polymorphism_ex.music.Music2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -441,14 +543,33 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="ReferenceCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Music5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="polymorphism.E13_VerifiedRefCounting.*" />
+          <option name="PATTERN" value="interfaces.music5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="polymorphism.ReferenceCounting" />
+      <option name="MAIN_CLASS_NAME" value="interfaces.music5.Music5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="eckel" />
+      <envs />
+    </configuration>
+    <configuration name="PolyConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="polymorphism.PolyConstructors" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -535,19 +656,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ReferenceCounting" />
-      <item index="1" class="java.lang.String" itemvalue="Application.E13_VerifiedRefCounting" />
-      <item index="2" class="java.lang.String" itemvalue="Application.E14_SharedRodentInitialization" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PolyConstructors" />
-      <item index="4" class="java.lang.String" itemvalue="Application.E15_PolyConstructors2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PolyConstructors" />
+      <item index="1" class="java.lang.String" itemvalue="Application.E15_PolyConstructors2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.E01_AbstractRodent" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Music5" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Music2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.E15_PolyConstructors2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PolyConstructors" />
-        <item index="2" class="java.lang.String" itemvalue="Application.E14_SharedRodentInitialization" />
-        <item index="3" class="java.lang.String" itemvalue="Application.E13_VerifiedRefCounting" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReferenceCounting" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Music2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Music5" />
+        <item index="2" class="java.lang.String" itemvalue="Application.E01_AbstractRodent" />
+        <item index="3" class="java.lang.String" itemvalue="Application.E15_PolyConstructors2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PolyConstructors" />
       </list>
     </recent_temporary>
   </component>
@@ -565,7 +686,8 @@
       <option name="presentableId" value="Default" />
       <updated>1541428050374</updated>
       <workItem from="1541428057065" duration="9284000" />
-      <workItem from="1541504963305" duration="16927000" />
+      <workItem from="1541504963305" duration="18187000" />
+      <workItem from="1542190820138" duration="4968000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;second commit&quot;">
       <created>1541506322402</created>
@@ -588,11 +710,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541518616755</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Polymorphism 2&quot;">
+      <created>1541669768155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541669768155</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26211000" />
+    <option name="totallyTimeSpent" value="32439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -606,24 +735,24 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -636,119 +765,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;second commit&quot;" />
     <MESSAGE value="&quot;Polymorphism 1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Polymorphism 1&quot;" />
+    <MESSAGE value="&quot;Polymorphism 2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Polymorphism 2&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/shape/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/shape/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/shape/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="e#141#142#0" expanded="false" />
-            <element signature="e#194#195#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-            <element signature="e#289#290#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/shape/RandomShapeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#456#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Shapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#641#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/oshape/Squar.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E02_Shapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#880#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/oshape/RandomShapeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#481#0" expanded="true" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/oshape/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="e#172#173#0" expanded="false" />
-            <element signature="e#223#224#0" expanded="false" />
-            <element signature="e#264#265#0" expanded="false" />
-            <element signature="e#316#317#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/oshape/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#230#231#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#325#326#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/oshape/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#173#174#0" expanded="false" />
-            <element signature="e#224#225#0" expanded="false" />
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#317#318#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,10 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#231#232#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -767,14 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="e#143#144#0" expanded="false" />
-            <element signature="e#194#195#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#326#327#0" expanded="false" />
-            <element signature="e#376#377#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,14 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="e#147#148#0" expanded="false" />
-            <element signature="e#200#201#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#295#296#0" expanded="false" />
-            <element signature="e#334#335#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -798,7 +806,7 @@
         <state relative-caret-position="685">
           <caret line="52" column="16" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="52" selection-end-column="16" />
           <folding>
-            <element signature="e#0#1234#0" expanded="true" />
+            <element signature="e#0#1234#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -807,14 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="e#143#144#0" expanded="false" />
-            <element signature="e#194#195#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#326#327#0" expanded="false" />
-            <element signature="e#376#377#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,14 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#153#154#0" expanded="false" />
-            <element signature="e#209#210#0" expanded="false" />
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#307#308#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#401#402#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,10 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#110#111#0" expanded="false" />
-            <element signature="e#134#135#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,10 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#144#145#0" expanded="false" />
-            <element signature="e#168#169#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -871,10 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#142#143#0" expanded="false" />
-            <element signature="e#166#167#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,10 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#144#145#0" expanded="false" />
-            <element signature="e#168#169#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -894,51 +870,44 @@
         <state relative-caret-position="340">
           <caret line="20" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
           <folding>
-            <element signature="e#0#2432#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1103#1104#0" expanded="true" />
-            <element signature="e#1136#1137#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1227#1228#0" expanded="true" />
-            <element signature="e#1295#1296#0" expanded="true" />
-            <element signature="e#1350#1351#0" expanded="true" />
-            <element signature="e#1385#1386#0" expanded="true" />
-            <element signature="e#1438#1439#0" expanded="true" />
-            <element signature="e#1509#1510#0" expanded="true" />
-            <element signature="e#1567#1568#0" expanded="true" />
-            <element signature="e#1602#1603#0" expanded="true" />
-            <element signature="e#1635#1636#0" expanded="true" />
+            <element signature="e#0#2432#0" expanded="false" />
+            <element signature="e#163#164#0" expanded="false" />
+            <element signature="e#223#224#0" expanded="false" />
+            <element signature="e#242#243#0" expanded="false" />
+            <element signature="e#277#278#0" expanded="false" />
+            <element signature="e#296#297#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#426#427#0" expanded="false" />
+            <element signature="e#480#481#0" expanded="false" />
+            <element signature="e#515#516#0" expanded="false" />
+            <element signature="e#544#545#0" expanded="false" />
+            <element signature="e#579#580#0" expanded="false" />
+            <element signature="e#631#632#0" expanded="false" />
+            <element signature="e#710#711#0" expanded="false" />
+            <element signature="e#770#771#0" expanded="false" />
+            <element signature="e#805#806#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#875#876#0" expanded="false" />
+            <element signature="e#933#934#0" expanded="false" />
+            <element signature="e#1010#1011#0" expanded="false" />
+            <element signature="e#1068#1069#0" expanded="false" />
+            <element signature="e#1103#1104#0" expanded="false" />
+            <element signature="e#1136#1137#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
+            <element signature="e#1227#1228#0" expanded="false" />
+            <element signature="e#1295#1296#0" expanded="false" />
+            <element signature="e#1350#1351#0" expanded="false" />
+            <element signature="e#1385#1386#0" expanded="false" />
+            <element signature="e#1438#1439#0" expanded="false" />
+            <element signature="e#1509#1510#0" expanded="false" />
+            <element signature="e#1567#1568#0" expanded="false" />
+            <element signature="e#1602#1603#0" expanded="false" />
+            <element signature="e#1635#1636#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Instrument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Instrument.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E06_MusicToString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1513">
@@ -991,9 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="49" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#1153#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1053,9 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#842#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1091,15 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#904#0" expanded="false" />
-            <element signature="e#178#179#0" expanded="false" />
-            <element signature="e#206#207#0" expanded="false" />
-            <element signature="e#290#291#0" expanded="false" />
-            <element signature="e#318#319#0" expanded="false" />
-            <element signature="e#352#353#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1107,17 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#772#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#201#202#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-            <element signature="e#277#278#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#401#402#0" expanded="false" />
-            <element signature="e#435#436#0" expanded="false" />
-            <element signature="e#480#481#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1125,25 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="61" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#996#0" expanded="false" />
-            <element signature="e#112#113#0" expanded="false" />
-            <element signature="e#156#157#0" expanded="false" />
-            <element signature="e#187#188#0" expanded="false" />
-            <element signature="e#232#233#0" expanded="false" />
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#311#312#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#393#394#0" expanded="false" />
-            <element signature="e#437#438#0" expanded="false" />
-            <element signature="e#482#483#0" expanded="false" />
-            <element signature="e#543#544#0" expanded="false" />
-            <element signature="e#596#597#0" expanded="false" />
-            <element signature="e#781#782#0" expanded="false" />
-            <element signature="e#829#830#0" expanded="false" />
-            <element signature="e#875#876#0" expanded="false" />
-            <element signature="e#905#906#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1151,15 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#706#0" expanded="false" />
-            <element signature="e#228#229#0" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
-            <element signature="e#452#453#0" expanded="false" />
-            <element signature="e#500#501#0" expanded="false" />
-            <element signature="e#574#575#0" expanded="false" />
-            <element signature="e#605#606#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1167,21 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="123" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="123" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#3007#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#338#339#0" expanded="false" />
-            <element signature="e#527#528#0" expanded="false" />
-            <element signature="e#591#592#0" expanded="false" />
-            <element signature="e#774#775#0" expanded="false" />
-            <element signature="e#828#829#0" expanded="false" />
-            <element signature="e#1152#1153#0" expanded="false" />
-            <element signature="e#1198#1199#0" expanded="false" />
-            <element signature="e#1544#1545#0" expanded="false" />
-            <element signature="e#1593#1594#0" expanded="false" />
-            <element signature="e#1928#1929#0" expanded="false" />
-            <element signature="e#1972#1973#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1243,19 +1143,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#1672#0" expanded="false" />
-            <element signature="e#244#245#0" expanded="false" />
-            <element signature="e#298#299#0" expanded="false" />
-            <element signature="e#327#328#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#461#462#0" expanded="false" />
-            <element signature="e#493#494#0" expanded="false" />
-            <element signature="e#530#531#0" expanded="false" />
-            <element signature="e#952#953#0" expanded="false" />
-            <element signature="e#992#993#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1263,21 +1150,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="16" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#2131#0" expanded="false" />
-            <element signature="e#468#469#0" expanded="false" />
-            <element signature="e#522#523#0" expanded="false" />
-            <element signature="e#550#551#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-            <element signature="e#608#609#0" expanded="false" />
-            <element signature="e#684#685#0" expanded="false" />
-            <element signature="e#717#718#0" expanded="false" />
-            <element signature="e#815#816#0" expanded="false" />
-            <element signature="e#847#848#0" expanded="false" />
-            <element signature="e#884#885#0" expanded="false" />
-            <element signature="e#1298#1299#0" expanded="false" />
-            <element signature="e#1338#1339#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1333,52 +1205,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Tricycle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/RTTI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#768#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Bicycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Unicycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E17_RTTI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1153#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/PolyConstructors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="561">
           <caret line="39" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="6" />
           <folding>
-            <element signature="e#0#885#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#0#885#0" expanded="false" />
+            <element signature="e#165#166#0" expanded="false" />
+            <element signature="e#215#216#0" expanded="false" />
+            <element signature="e#566#567#0" expanded="false" />
+            <element signature="e#641#642#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E15_PolyConstructors2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="170">
           <caret line="15" column="76" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1138#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#0#1138#0" expanded="false" />
+            <element signature="e#627#628#0" expanded="false" />
+            <element signature="e#714#715#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/CovariantReturn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="39" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="527">
+          <caret line="39" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="false" />
+            <element signature="e#134#135#0" expanded="false" />
+            <element signature="e#196#197#0" expanded="false" />
+            <element signature="e#226#227#0" expanded="false" />
+            <element signature="e#264#265#0" expanded="false" />
+            <element signature="e#298#299#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#388#389#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Transmogrify.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="595">
           <caret line="45" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
             <element signature="e#0#840#0" expanded="true" />
@@ -1396,7 +1306,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E16_Starship.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="0">
           <caret line="66" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="e#0#1388#0" expanded="true" />
@@ -1416,47 +1326,189 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/RTTI.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tuft/eckel/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tuft/eckel/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/music4/Music4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
           <folding>
-            <element signature="e#0#768#0" expanded="true" />
+            <element signature="e#0#2151#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1678#1679#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Tricycle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E01_AbstractRodent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Unicycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/cycle3/Bicycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/E17_RTTI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="365">
+          <caret line="88" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="6" />
           <folding>
-            <element signature="e#0#1153#0" expanded="true" />
+            <element signature="e#0#1959#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1418#1419#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E02_Abstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#530#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E03_Initialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#1017#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E04_AbstractBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="27" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#1280#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuft/eckel/polymorphism_ex/music/E01_Upcasting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuft/eckel/polymorphism_ex/music/Music2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#956#0" expanded="true" />
             <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="33" lean-forward="false" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#2087#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1321#1322#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1614#1615#0" expanded="true" />
           </folding>
         </state>
       </provider>
