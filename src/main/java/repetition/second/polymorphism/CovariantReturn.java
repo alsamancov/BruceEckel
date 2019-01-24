@@ -1,4 +1,4 @@
-package repetition.first.polymorphism;
+package repetition.second.polymorphism;
 
 class Grain {
     public String toString() {
