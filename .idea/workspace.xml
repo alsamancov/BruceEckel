@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b7e070-aae9-42bc-a3cd-3b1a3d4d841a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/fifth/interfaces/E01_AbstractRodent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/fifth/interfaces/music4/Music4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/fourth/interfaces/E01_AbstractRodent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/fourth/interfaces/music4/Music4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E02_Abstract.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E03_Initialization.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E04_AbstractBase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/music5/Music5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E02_Abstract.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E03_Initialization.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E04_AbstractBase.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/music4/Music4.java" afterPath="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/music4/Music4.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java" afterPath="$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,108 +24,47 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Music4.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/fourth/interfaces/music4/Music4.java">
+        <leaf>
+          <file leaf-file-name="Music5.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="364">
-                  <caret line="37" column="58" lean-forward="true" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+                <state relative-caret-position="-1666">
+                  <caret line="52" column="61" lean-forward="false" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
                   <folding>
-                    <element signature="e#2713#2714#0" expanded="true" />
-                    <element signature="e#2748#2749#0" expanded="true" />
-                    <element signature="e#2850#2851#0" expanded="true" />
-                    <element signature="e#2904#2905#0" expanded="true" />
-                    <element signature="e#2932#2933#0" expanded="true" />
-                    <element signature="e#2961#2962#0" expanded="true" />
-                    <element signature="e#3068#3069#0" expanded="true" />
-                    <element signature="e#3128#3129#0" expanded="true" />
-                    <element signature="e#3156#3157#0" expanded="true" />
+                    <element signature="e#2991#2992#0" expanded="true" />
+                    <element signature="e#3048#3049#0" expanded="true" />
+                    <element signature="e#3080#3081#0" expanded="true" />
+                    <element signature="e#3109#3110#0" expanded="true" />
+                    <element signature="e#3137#3138#0" expanded="true" />
                     <element signature="e#3191#3192#0" expanded="true" />
-                    <element signature="e#3296#3297#0" expanded="true" />
-                    <element signature="e#3354#3355#0" expanded="true" />
-                    <element signature="e#3382#3383#0" expanded="true" />
-                    <element signature="e#3415#3416#0" expanded="true" />
-                    <element signature="e#3511#3512#0" expanded="true" />
-                    <element signature="e#3566#3567#0" expanded="true" />
-                    <element signature="e#3594#3595#0" expanded="true" />
-                    <element signature="e#3646#3647#0" expanded="true" />
-                    <element signature="e#3710#3711#0" expanded="true" />
-                    <element signature="e#3768#3769#0" expanded="true" />
-                    <element signature="e#3796#3797#0" expanded="true" />
-                    <element signature="e#3829#3830#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Music4.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/first/interfaces/music4/Music4.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1564">
-                  <caret line="106" column="6" lean-forward="false" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Music4.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/second/interfaces/music4/Music4.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#2716#2717#0" expanded="true" />
-                    <element signature="e#2751#2752#0" expanded="true" />
-                    <element signature="e#2853#2854#0" expanded="true" />
-                    <element signature="e#2907#2908#0" expanded="true" />
-                    <element signature="e#2935#2936#0" expanded="true" />
-                    <element signature="e#2964#2965#0" expanded="true" />
-                    <element signature="e#3071#3072#0" expanded="true" />
-                    <element signature="e#3131#3132#0" expanded="true" />
-                    <element signature="e#3159#3160#0" expanded="true" />
-                    <element signature="e#3194#3195#0" expanded="true" />
-                    <element signature="e#3299#3300#0" expanded="true" />
-                    <element signature="e#3357#3358#0" expanded="true" />
-                    <element signature="e#3385#3386#0" expanded="true" />
+                    <element signature="e#3266#3267#0" expanded="true" />
+                    <element signature="e#3323#3324#0" expanded="true" />
+                    <element signature="e#3355#3356#0" expanded="true" />
+                    <element signature="e#3390#3391#0" expanded="true" />
                     <element signature="e#3418#3419#0" expanded="true" />
-                    <element signature="e#3514#3515#0" expanded="true" />
-                    <element signature="e#3561#3562#0" expanded="true" />
-                    <element signature="e#3589#3590#0" expanded="true" />
-                    <element signature="e#3641#3642#0" expanded="true" />
-                    <element signature="e#3705#3706#0" expanded="true" />
-                    <element signature="e#3763#3764#0" expanded="true" />
-                    <element signature="e#3791#3792#0" expanded="true" />
-                    <element signature="e#3824#3825#0" expanded="true" />
+                    <element signature="e#3472#3473#0" expanded="true" />
+                    <element signature="e#3545#3546#0" expanded="true" />
+                    <element signature="e#3602#3603#0" expanded="true" />
+                    <element signature="e#3634#3635#0" expanded="true" />
+                    <element signature="e#3667#3668#0" expanded="true" />
+                    <element signature="e#3695#3696#0" expanded="true" />
+                    <element signature="e#3749#3750#0" expanded="true" />
+                    <element signature="e#3810#3811#0" expanded="true" />
+                    <element signature="e#3840#3841#0" expanded="true" />
+                    <element signature="e#3904#3905#0" expanded="true" />
+                    <element signature="e#3937#3938#0" expanded="true" />
+                    <element signature="e#4184#4185#0" expanded="true" />
+                    <element signature="e#4230#4231#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Music4.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/third/interfaces/music4/Music4.java">
+          <file leaf-file-name="Music5.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/first/interfaces/music5/Music5.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="24">
-                  <caret line="105" column="6" lean-forward="false" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="E01_AbstractRodent.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/fifth/interfaces/E01_AbstractRodent.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Music4.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/fifth/interfaces/music4/Music4.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="125" column="19" lean-forward="false" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
+                <state relative-caret-position="68">
+                  <caret line="169" column="0" lean-forward="true" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -132,34 +74,35 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="Music4.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/second/interfaces/music4/Music4.java">
+          <file leaf-file-name="Music5.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/repetition/first/interfaces/music5/Music5.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="7">
-                  <caret line="1" column="60" lean-forward="false" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+                <state relative-caret-position="2839">
+                  <caret line="167" column="45" lean-forward="false" selection-start-line="167" selection-start-column="45" selection-end-line="167" selection-end-column="45" />
                   <folding>
-                    <element signature="e#2716#2717#0" expanded="true" />
-                    <element signature="e#2751#2752#0" expanded="true" />
-                    <element signature="e#2853#2854#0" expanded="true" />
-                    <element signature="e#2907#2908#0" expanded="true" />
-                    <element signature="e#2935#2936#0" expanded="true" />
-                    <element signature="e#2964#2965#0" expanded="true" />
-                    <element signature="e#3071#3072#0" expanded="true" />
-                    <element signature="e#3131#3132#0" expanded="true" />
-                    <element signature="e#3159#3160#0" expanded="true" />
-                    <element signature="e#3194#3195#0" expanded="true" />
-                    <element signature="e#3299#3300#0" expanded="true" />
+                    <element signature="e#0#5322#0" expanded="true" />
+                    <element signature="e#2997#2998#0" expanded="true" />
+                    <element signature="e#3054#3055#0" expanded="true" />
+                    <element signature="e#3085#3086#0" expanded="true" />
+                    <element signature="e#3114#3115#0" expanded="true" />
+                    <element signature="e#3141#3142#0" expanded="true" />
+                    <element signature="e#3195#3196#0" expanded="true" />
+                    <element signature="e#3269#3270#0" expanded="true" />
+                    <element signature="e#3326#3327#0" expanded="true" />
                     <element signature="e#3357#3358#0" expanded="true" />
-                    <element signature="e#3385#3386#0" expanded="true" />
-                    <element signature="e#3418#3419#0" expanded="true" />
-                    <element signature="e#3514#3515#0" expanded="true" />
-                    <element signature="e#3561#3562#0" expanded="true" />
-                    <element signature="e#3589#3590#0" expanded="true" />
-                    <element signature="e#3641#3642#0" expanded="true" />
-                    <element signature="e#3705#3706#0" expanded="true" />
-                    <element signature="e#3763#3764#0" expanded="true" />
-                    <element signature="e#3791#3792#0" expanded="true" />
-                    <element signature="e#3824#3825#0" expanded="true" />
+                    <element signature="e#3392#3393#0" expanded="true" />
+                    <element signature="e#3419#3420#0" expanded="true" />
+                    <element signature="e#3473#3474#0" expanded="true" />
+                    <element signature="e#3546#3547#0" expanded="true" />
+                    <element signature="e#3603#3604#0" expanded="true" />
+                    <element signature="e#3634#3635#0" expanded="true" />
+                    <element signature="e#3667#3668#0" expanded="true" />
+                    <element signature="e#3694#3695#0" expanded="true" />
+                    <element signature="e#3747#3748#0" expanded="true" />
+                    <element signature="e#3807#3808#0" expanded="true" />
+                    <element signature="e#3837#3838#0" expanded="true" />
+                    <element signature="e#3900#3901#0" expanded="true" />
+                    <element signature="e#3933#3934#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -202,15 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/operators/E09_MinMaxExponents.java" />
-        <option value="$PROJECT_DIR$/src/main/java/operators/E10_BitwiseOperators.java" />
-        <option value="$PROJECT_DIR$/src/main/java/operators/URShift.java" />
-        <option value="$PROJECT_DIR$/src/main/java/operators/BitManipulation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/operators/E11_SignedRightShift.java" />
-        <option value="$PROJECT_DIR$/src/main/java/operators/E12_UnsignedRightShift.java" />
-        <option value="$PROJECT_DIR$/src/main/java/operators/E13_BinaryChar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/operators/TernaryIfElse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/operators/StringOperators.java" />
         <option value="$PROJECT_DIR$/src/main/java/operators/Casting.java" />
         <option value="$PROJECT_DIR$/src/main/java/operators/CastingNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/operators/RoundingNumbers.java" />
@@ -253,6 +187,15 @@
         <option value="$PROJECT_DIR$/src/main/java/repetition/fifth/interfaces/music4/Music4.java" />
         <option value="$PROJECT_DIR$/src/main/java/repetition/fourth/interfaces/music4/Music4.java" />
         <option value="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/music4/Music4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/NoAbstractMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E02_Abstract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E02_Abstract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E03_Initialization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E03_Initialization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E04_AbstractBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E04_AbstractBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repetition/first/interfaces/music5/Music5.java" />
       </list>
     </option>
   </component>
@@ -334,36 +277,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="fifth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="fifth" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="fifth" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="music4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -385,48 +298,7 @@
               <item name="repetition" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
               <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="music4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="music4" type="462c0819:PsiDirectoryNode" />
-              <item name="Music4.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="fourth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="fourth" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="fourth" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="music5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
@@ -446,71 +318,6 @@
               <item name="repetition" type="462c0819:PsiDirectoryNode" />
               <item name="second" type="462c0819:PsiDirectoryNode" />
               <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="music4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="music4" type="462c0819:PsiDirectoryNode" />
-              <item name="Music4.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="third" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="third" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="third" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="music4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BruceEckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repetition" type="462c0819:PsiDirectoryNode" />
-              <item name="third" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="music4" type="462c0819:PsiDirectoryNode" />
-              <item name="Music4.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="BruceEckel" type="b2602c69:ProjectViewProjectNode" />
@@ -558,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E01_AbstractRodent (1)">
+  <component name="RunManager" selected="Application.E04_AbstractBase (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -604,14 +411,52 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="IfElse2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="E03_Initialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="control.*" />
+          <option name="PATTERN" value="repetition.first.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="control.IfElse2" />
+      <option name="MAIN_CLASS_NAME" value="repetition.first.interfaces.E03_Initialization" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="eckel" />
+      <envs />
+    </configuration>
+    <configuration name="E04_AbstractBase (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="repetition.second.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="repetition.second.interfaces.E04_AbstractBase" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="eckel" />
+      <envs />
+    </configuration>
+    <configuration name="E04_AbstractBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="repetition.first.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="repetition.first.interfaces.E04_AbstractBase" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -631,44 +476,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="repetition.fourth.polymorphism.music.Music2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="eckel" />
-      <envs />
-    </configuration>
-    <configuration name="Music4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="interfaces.music4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="interfaces.music4.Music4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="eckel" />
-      <envs />
-    </configuration>
-    <configuration name="Music4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="repetition.first.interfaces.music4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="repetition.first.interfaces.music4.Music4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -755,19 +562,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.IfElse2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Music4" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Music4 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.E01_AbstractRodent" />
-      <item index="4" class="java.lang.String" itemvalue="Application.E01_AbstractRodent (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.E01_AbstractRodent" />
+      <item index="1" class="java.lang.String" itemvalue="Application.E01_AbstractRodent (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.E03_Initialization" />
+      <item index="3" class="java.lang.String" itemvalue="Application.E04_AbstractBase" />
+      <item index="4" class="java.lang.String" itemvalue="Application.E04_AbstractBase (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.E01_AbstractRodent (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.E01_AbstractRodent" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Music4 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Music4" />
-        <item index="4" class="java.lang.String" itemvalue="Application.IfElse2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.E04_AbstractBase (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.E04_AbstractBase" />
+        <item index="2" class="java.lang.String" itemvalue="Application.E03_Initialization" />
+        <item index="3" class="java.lang.String" itemvalue="Application.E01_AbstractRodent (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.E01_AbstractRodent" />
       </list>
     </recent_temporary>
   </component>
@@ -872,11 +679,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549743763833</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;Interfaces repetition3,4,5&quot;">
+      <created>1549813716109</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1549813716109</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108355000" />
+    <option name="totallyTimeSpent" value="118469000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -892,7 +706,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -903,7 +717,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2718509" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2596401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Merger" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -941,6 +755,38 @@
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2739872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Merger" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -957,7 +803,8 @@
     <MESSAGE value="&quot;Polymorphism repetition2&quot;" />
     <MESSAGE value="&quot;Polymorphism repetition3-4&quot;" />
     <MESSAGE value="&quot;Interfaces repetition3-4&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Interfaces repetition3-4&quot;" />
+    <MESSAGE value="&quot;Interfaces repetition3,4,5&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Interfaces repetition3,4,5&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -966,69 +813,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/operators/E14_CompareStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="16" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/control/IfElse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/control/WhileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/control/ListCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/control/E01_To100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/control/E02_RandomInts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/control/E03_RandomInts2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/control/E04_FindPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/control/E04_FindPrimes2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/control/E05_BitwiseOperators2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-196">
@@ -1302,31 +1086,31 @@
         <state relative-caret-position="313">
           <caret line="71" column="31" lean-forward="false" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
           <folding>
-            <element signature="e#0#1797#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1089#1090#0" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1178#1179#0" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1314#1315#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#0#1797#0" expanded="false" />
+            <element signature="e#499#500#0" expanded="false" />
+            <element signature="e#550#551#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#631#632#0" expanded="false" />
+            <element signature="e#662#663#0" expanded="false" />
+            <element signature="e#716#717#0" expanded="false" />
+            <element signature="e#748#749#0" expanded="false" />
+            <element signature="e#778#779#0" expanded="false" />
+            <element signature="e#835#836#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#915#916#0" expanded="false" />
+            <element signature="e#969#970#0" expanded="false" />
+            <element signature="e#1000#1001#0" expanded="false" />
+            <element signature="e#1057#1058#0" expanded="false" />
+            <element signature="e#1089#1090#0" expanded="false" />
+            <element signature="e#1120#1121#0" expanded="false" />
+            <element signature="e#1178#1179#0" expanded="false" />
+            <element signature="e#1231#1232#0" expanded="false" />
+            <element signature="e#1259#1260#0" expanded="false" />
+            <element signature="e#1314#1315#0" expanded="false" />
+            <element signature="e#1345#1346#0" expanded="false" />
+            <element signature="e#1403#1404#0" expanded="false" />
+            <element signature="e#1449#1450#0" expanded="false" />
+            <element signature="e#1481#1482#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1336,31 +1120,31 @@
         <state relative-caret-position="160">
           <caret line="70" column="31" lean-forward="false" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
           <folding>
-            <element signature="e#0#1769#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1113#1114#0" expanded="true" />
-            <element signature="e#1170#1171#0" expanded="true" />
-            <element signature="e#1223#1224#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1305#1306#0" expanded="true" />
-            <element signature="e#1335#1336#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#0#1769#0" expanded="false" />
+            <element signature="e#499#500#0" expanded="false" />
+            <element signature="e#550#551#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#630#631#0" expanded="false" />
+            <element signature="e#660#661#0" expanded="false" />
+            <element signature="e#714#715#0" expanded="false" />
+            <element signature="e#745#746#0" expanded="false" />
+            <element signature="e#775#776#0" expanded="false" />
+            <element signature="e#830#831#0" expanded="false" />
+            <element signature="e#882#883#0" expanded="false" />
+            <element signature="e#910#911#0" expanded="false" />
+            <element signature="e#964#965#0" expanded="false" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1051#1052#0" expanded="false" />
+            <element signature="e#1082#1083#0" expanded="false" />
+            <element signature="e#1113#1114#0" expanded="false" />
+            <element signature="e#1170#1171#0" expanded="false" />
+            <element signature="e#1223#1224#0" expanded="false" />
+            <element signature="e#1250#1251#0" expanded="false" />
+            <element signature="e#1305#1306#0" expanded="false" />
+            <element signature="e#1335#1336#0" expanded="false" />
+            <element signature="e#1393#1394#0" expanded="false" />
+            <element signature="e#1424#1425#0" expanded="false" />
+            <element signature="e#1456#1457#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1370,25 +1154,25 @@
         <state relative-caret-position="1258">
           <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
           <folding>
-            <element signature="e#0#1825#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#849#850#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#983#984#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1206#1207#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1287#1288#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#0#1825#0" expanded="false" />
+            <element signature="e#499#500#0" expanded="false" />
+            <element signature="e#550#551#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#631#632#0" expanded="false" />
+            <element signature="e#662#663#0" expanded="false" />
+            <element signature="e#716#717#0" expanded="false" />
+            <element signature="e#849#850#0" expanded="false" />
+            <element signature="e#901#902#0" expanded="false" />
+            <element signature="e#929#930#0" expanded="false" />
+            <element signature="e#983#984#0" expanded="false" />
+            <element signature="e#1014#1015#0" expanded="false" />
+            <element signature="e#1071#1072#0" expanded="false" />
+            <element signature="e#1206#1207#0" expanded="false" />
+            <element signature="e#1259#1260#0" expanded="false" />
+            <element signature="e#1287#1288#0" expanded="false" />
+            <element signature="e#1342#1343#0" expanded="false" />
+            <element signature="e#1373#1374#0" expanded="false" />
+            <element signature="e#1431#1432#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1433,64 +1217,203 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/second/interfaces/music4/Music4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#2716#2717#0" expanded="false" />
+            <element signature="e#2751#2752#0" expanded="false" />
+            <element signature="e#2853#2854#0" expanded="false" />
+            <element signature="e#2907#2908#0" expanded="false" />
+            <element signature="e#2935#2936#0" expanded="false" />
+            <element signature="e#2964#2965#0" expanded="false" />
+            <element signature="e#3071#3072#0" expanded="false" />
+            <element signature="e#3131#3132#0" expanded="false" />
+            <element signature="e#3159#3160#0" expanded="false" />
+            <element signature="e#3194#3195#0" expanded="false" />
+            <element signature="e#3299#3300#0" expanded="false" />
+            <element signature="e#3357#3358#0" expanded="false" />
+            <element signature="e#3385#3386#0" expanded="false" />
+            <element signature="e#3418#3419#0" expanded="false" />
+            <element signature="e#3514#3515#0" expanded="false" />
+            <element signature="e#3561#3562#0" expanded="false" />
+            <element signature="e#3589#3590#0" expanded="false" />
+            <element signature="e#3641#3642#0" expanded="false" />
+            <element signature="e#3705#3706#0" expanded="false" />
+            <element signature="e#3763#3764#0" expanded="false" />
+            <element signature="e#3791#3792#0" expanded="false" />
+            <element signature="e#3824#3825#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/repetition/fourth/interfaces/music4/Music4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="37" column="58" lean-forward="true" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
           <folding>
-            <element signature="e#2713#2714#0" expanded="true" />
-            <element signature="e#2748#2749#0" expanded="true" />
-            <element signature="e#2850#2851#0" expanded="true" />
-            <element signature="e#2904#2905#0" expanded="true" />
-            <element signature="e#2932#2933#0" expanded="true" />
-            <element signature="e#2961#2962#0" expanded="true" />
-            <element signature="e#3068#3069#0" expanded="true" />
-            <element signature="e#3128#3129#0" expanded="true" />
-            <element signature="e#3156#3157#0" expanded="true" />
-            <element signature="e#3191#3192#0" expanded="true" />
-            <element signature="e#3296#3297#0" expanded="true" />
-            <element signature="e#3354#3355#0" expanded="true" />
-            <element signature="e#3382#3383#0" expanded="true" />
-            <element signature="e#3415#3416#0" expanded="true" />
-            <element signature="e#3511#3512#0" expanded="true" />
-            <element signature="e#3566#3567#0" expanded="true" />
-            <element signature="e#3594#3595#0" expanded="true" />
-            <element signature="e#3646#3647#0" expanded="true" />
-            <element signature="e#3710#3711#0" expanded="true" />
-            <element signature="e#3768#3769#0" expanded="true" />
-            <element signature="e#3796#3797#0" expanded="true" />
-            <element signature="e#3829#3830#0" expanded="true" />
+            <element signature="e#2713#2714#0" expanded="false" />
+            <element signature="e#2748#2749#0" expanded="false" />
+            <element signature="e#2850#2851#0" expanded="false" />
+            <element signature="e#2904#2905#0" expanded="false" />
+            <element signature="e#2932#2933#0" expanded="false" />
+            <element signature="e#2961#2962#0" expanded="false" />
+            <element signature="e#3068#3069#0" expanded="false" />
+            <element signature="e#3128#3129#0" expanded="false" />
+            <element signature="e#3156#3157#0" expanded="false" />
+            <element signature="e#3191#3192#0" expanded="false" />
+            <element signature="e#3296#3297#0" expanded="false" />
+            <element signature="e#3354#3355#0" expanded="false" />
+            <element signature="e#3382#3383#0" expanded="false" />
+            <element signature="e#3415#3416#0" expanded="false" />
+            <element signature="e#3511#3512#0" expanded="false" />
+            <element signature="e#3566#3567#0" expanded="false" />
+            <element signature="e#3594#3595#0" expanded="false" />
+            <element signature="e#3646#3647#0" expanded="false" />
+            <element signature="e#3710#3711#0" expanded="false" />
+            <element signature="e#3768#3769#0" expanded="false" />
+            <element signature="e#3796#3797#0" expanded="false" />
+            <element signature="e#3829#3830#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/second/interfaces/music4/Music4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E02_Abstract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="1" column="60" lean-forward="false" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="28" />
           <folding>
-            <element signature="e#2716#2717#0" expanded="true" />
-            <element signature="e#2751#2752#0" expanded="true" />
-            <element signature="e#2853#2854#0" expanded="true" />
-            <element signature="e#2907#2908#0" expanded="true" />
-            <element signature="e#2935#2936#0" expanded="true" />
-            <element signature="e#2964#2965#0" expanded="true" />
-            <element signature="e#3071#3072#0" expanded="true" />
-            <element signature="e#3131#3132#0" expanded="true" />
-            <element signature="e#3159#3160#0" expanded="true" />
-            <element signature="e#3194#3195#0" expanded="true" />
-            <element signature="e#3299#3300#0" expanded="true" />
-            <element signature="e#3357#3358#0" expanded="true" />
-            <element signature="e#3385#3386#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E02_Abstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <element signature="e#378#379#0" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E03_Initialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E03_Initialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1934#0" expanded="false" />
+            <element signature="e#640#641#0" expanded="false" />
+            <element signature="e#663#664#0" expanded="false" />
+            <element signature="e#790#791#0" expanded="false" />
+            <element signature="e#836#837#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E04_AbstractBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/first/interfaces/E04_AbstractBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#1467#0" expanded="false" />
+            <element signature="e#606#607#0" expanded="false" />
+            <element signature="e#657#658#0" expanded="false" />
+            <element signature="e#781#782#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/E04_AbstractBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/music5/Music5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1666">
+          <caret line="52" column="61" lean-forward="false" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
+          <folding>
+            <element signature="e#2991#2992#0" expanded="true" />
+            <element signature="e#3048#3049#0" expanded="true" />
+            <element signature="e#3080#3081#0" expanded="true" />
+            <element signature="e#3109#3110#0" expanded="true" />
+            <element signature="e#3137#3138#0" expanded="true" />
+            <element signature="e#3191#3192#0" expanded="true" />
+            <element signature="e#3266#3267#0" expanded="true" />
+            <element signature="e#3323#3324#0" expanded="true" />
+            <element signature="e#3355#3356#0" expanded="true" />
+            <element signature="e#3390#3391#0" expanded="true" />
             <element signature="e#3418#3419#0" expanded="true" />
-            <element signature="e#3514#3515#0" expanded="true" />
-            <element signature="e#3561#3562#0" expanded="true" />
-            <element signature="e#3589#3590#0" expanded="true" />
-            <element signature="e#3641#3642#0" expanded="true" />
-            <element signature="e#3705#3706#0" expanded="true" />
-            <element signature="e#3763#3764#0" expanded="true" />
-            <element signature="e#3791#3792#0" expanded="true" />
-            <element signature="e#3824#3825#0" expanded="true" />
+            <element signature="e#3472#3473#0" expanded="true" />
+            <element signature="e#3545#3546#0" expanded="true" />
+            <element signature="e#3602#3603#0" expanded="true" />
+            <element signature="e#3634#3635#0" expanded="true" />
+            <element signature="e#3667#3668#0" expanded="true" />
+            <element signature="e#3695#3696#0" expanded="true" />
+            <element signature="e#3749#3750#0" expanded="true" />
+            <element signature="e#3810#3811#0" expanded="true" />
+            <element signature="e#3840#3841#0" expanded="true" />
+            <element signature="e#3904#3905#0" expanded="true" />
+            <element signature="e#3937#3938#0" expanded="true" />
+            <element signature="e#4184#4185#0" expanded="true" />
+            <element signature="e#4230#4231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repetition/first/interfaces/music5/Music5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="167" column="45" lean-forward="false" selection-start-line="167" selection-start-column="45" selection-end-line="167" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#5322#0" expanded="true" />
+            <element signature="e#2997#2998#0" expanded="true" />
+            <element signature="e#3054#3055#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
+            <element signature="e#3114#3115#0" expanded="true" />
+            <element signature="e#3141#3142#0" expanded="true" />
+            <element signature="e#3195#3196#0" expanded="true" />
+            <element signature="e#3269#3270#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
+            <element signature="e#3357#3358#0" expanded="true" />
+            <element signature="e#3392#3393#0" expanded="true" />
+            <element signature="e#3419#3420#0" expanded="true" />
+            <element signature="e#3473#3474#0" expanded="true" />
+            <element signature="e#3546#3547#0" expanded="true" />
+            <element signature="e#3603#3604#0" expanded="true" />
+            <element signature="e#3634#3635#0" expanded="true" />
+            <element signature="e#3667#3668#0" expanded="true" />
+            <element signature="e#3694#3695#0" expanded="true" />
+            <element signature="e#3747#3748#0" expanded="true" />
+            <element signature="e#3807#3808#0" expanded="true" />
+            <element signature="e#3837#3838#0" expanded="true" />
+            <element signature="e#3900#3901#0" expanded="true" />
+            <element signature="e#3933#3934#0" expanded="true" />
           </folding>
         </state>
       </provider>

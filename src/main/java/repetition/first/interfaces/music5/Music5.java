@@ -1,6 +1,6 @@
 //: interfaces/music5/Music5.java
 // Interfaces.
-/******************************************************************
+/**********************************************************
  * The interface keyword produces a
  * completely abstract class, one that provides no
  * implementation at all. It allows the creator to determine
@@ -17,11 +17,11 @@
  * protocol to do the same thing.)
  *
  * However, an interface is more than just an abstract class
- * taken to the extreme, since it allows you to  perform a
+ * taken to the extreme, since it allows you to perform a
  * variation of "multiple inheritance" by creating a class that
  * can be upcast to more than one base type.
  *
- *To create an interface, use the interface keyword instead
+ * To create an interface, use the interface keyword instead
  * of the class keyword. As with a class, you can add the
  * public keyword before the interface keyword (but only if
  * that interface is defined in a file of the same name). If you
@@ -56,13 +56,12 @@
  * declared as public, but they're automatically public
  * anyway:
  */
-package interfaces.music5;
+package repetition.first.interfaces.music5;
 
 import polymorphism.music.Note;
 
-
 interface Instrument {
-    // Compile-time constant:
+    //Compile-time constant:
     int VALUE = 5; // static & final
 
     // Cannot have method definitions:
@@ -72,29 +71,29 @@ interface Instrument {
 }
 
 class Wind implements Instrument {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println(this + ".play() " + n);
     }
 
-    public String toString() {
+    public String toString(){
         return "Wind";
     }
 
-    public void adjust() {
+    public void adjust(){
         System.out.println(this + ".adjust()");
     }
 }
 
 class Percussion implements Instrument {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println(this + ".play() " + n);
     }
 
-    public String toString() {
+    public String toString(){
         return "Percussion";
     }
 
-    public void adjust() {
+    public void adjust(){
         System.out.println(this + ".adjust()");
     }
 }
@@ -104,37 +103,39 @@ class Stringed implements Instrument {
         System.out.println(this + ".play() " + n);
     }
 
-    public String toString() {
+    public String toString(){
         return "Stringed";
     }
 
-    public void adjust() {
-        System.out.println(this + ".adjust()");
+    public void adjust(){
+        System.out.println(this + ".ajust()");
     }
 }
 
 class Brass extends Wind {
-    public String toString() {
+    public String toString(){
         return "Brass";
     }
 }
 
 class Woodwind extends Wind {
-    public String toString() {
+    public String toString(){
         return "Woodwind";
     }
 }
 
 public class Music5 {
-    // Doesn’t care about type, so new types
+    // Doesn't care about type, so new types
     // added to the system still work right:
-    static void tune(Instrument i) {
+    static void tune(Instrument i){
         // ...
         i.play(Note.MIDDLE_C);
     }
 
-    static void tuneAll(Instrument[] e) {
-        for (Instrument i : e) tune(i);
+    static void tuneAll(Instrument[] e){
+        for(Instrument i : e){
+            tune(i);
+        }
     }
 
     public static void main(String[] args) {
@@ -149,15 +150,9 @@ public class Music5 {
 
         tuneAll(orchestra);
     }
-} /* Output:
-Wind.play() MIDDLE_C
-Percussion.play() MIDDLE_C
-Stringed.play() MIDDLE_C
-Brass.play() MIDDLE_C
-Woodwind.play() MIDDLE_C
-*///:~
+}
 
-/***********************
+/********************************************************
  * One other change has been made to this version of the
  * example: The what() method has been changed to
  * toString(), since that was how the method was being
