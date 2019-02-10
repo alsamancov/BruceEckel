@@ -1,5 +1,5 @@
-package repetition.second.interfaces.music4;
-/****************************************************************
+package repetition.fifth.interfaces.music4;
+/***************************************************************
  * Instrument is to create a common interface for all the
  * classes derived from it.
  *
@@ -24,8 +24,8 @@ package repetition.second.interfaces.music4;
  *
  * A class containing abstract methods is called an abstract
  * class. If a class contains one or more abstract methods, the
- * class itself must be qualified as abstract. (Otherwise, the
- * compiler gives you an error message.)
+ * class itself must qualified as abstract. (Otherwise, the
+ * compiler gives you an error message).
  * If an abstract class is incomplete, what is the compiler
  * supposed to do when someone tries to make an object of
  * that class? It cannot safety create an object of an abstract
@@ -45,16 +45,16 @@ package repetition.second.interfaces.music4;
  *
  * Only some of the methods will be abstract, since making a class
  * abstract doesn't force you to make all the methods abstract.
- ************************************************************************/
+ *************************************************************************/
 
 import polymorphism.music.Note;
 
 abstract class Instrument {
-    private int i; // Storage allocated for each
+    private int i; //Storage allocated for each
 
     public abstract void play(Note n);
 
-    public String what() {
+    public String what(){
         return "Instrument";
     }
 
@@ -62,63 +62,63 @@ abstract class Instrument {
 }
 
 class Wind extends Instrument {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println("Wind.play() " + n);
     }
 
-    public String what() {
+    public String what(){
         return "Wind";
     }
 
-    public void adjust() {
+    public void adjust(){
 
     }
 }
 
 class Percussion extends Instrument {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println("Percussion.play() " + n);
     }
 
-    public String what() {
+    public String what(){
         return "Percussion";
     }
 
-    public void adjust() {
+    public void adjust(){
 
     }
 }
 
 class Stringed extends Instrument {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println("Stringed.play() " + n);
     }
 
-    public String what() {
+    public String what(){
         return "Stringed";
     }
 
-    public void adjust() {
+    public void adjust(){
 
     }
 }
 
 class Brass extends Wind {
-    public void play(Note n) {
-        System.out.println("Bras.play");
+    public void play(Note n){
+        System.out.println("Brass.play() " + n);
     }
 
-    public void adjust() {
+    public void adjust(){
         System.out.println("Brass.adjust()");
     }
 }
 
 class Woodwind extends Wind {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println("Woodwind.play() " + n);
     }
 
-    public String what() {
+    public String what(){
         return "Woodwind";
     }
 }
@@ -126,20 +126,20 @@ class Woodwind extends Wind {
 public class Music4 {
     //Doesn't care about type, so new types
     //added to the system still work right:
-    static void tune(Instrument i) {
+    static void tune(Instrument i){
         //...
         i.play(Note.MIDDLE_C);
     }
 
-    static void tuneAll(Instrument[] e) {
-        for (Instrument i : e) {
+    static void tuneAll(Instrument[] e){
+        for(Instrument i : e){
             tune(i);
         }
     }
 
     public static void main(String[] args) {
         //Upcasting during addition to the array:
-        Instrument[] orchestra = {
+        Instrument [] orchestra = {
                 new Wind(),
                 new Percussion(),
                 new Stringed(),

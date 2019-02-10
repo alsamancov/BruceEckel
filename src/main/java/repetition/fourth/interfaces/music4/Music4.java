@@ -1,4 +1,4 @@
-package repetition.second.interfaces.music4;
+package repetition.fourth.interfaces.music4;
 /****************************************************************
  * Instrument is to create a common interface for all the
  * classes derived from it.
@@ -45,12 +45,12 @@ package repetition.second.interfaces.music4;
  *
  * Only some of the methods will be abstract, since making a class
  * abstract doesn't force you to make all the methods abstract.
- ************************************************************************/
+ **********************************************************************/
 
 import polymorphism.music.Note;
 
 abstract class Instrument {
-    private int i; // Storage allocated for each
+    private int i; //Storage allocated for each
 
     public abstract void play(Note n);
 
@@ -105,7 +105,7 @@ class Stringed extends Instrument {
 
 class Brass extends Wind {
     public void play(Note n) {
-        System.out.println("Bras.play");
+        System.out.println("Brass.play() " + n);
     }
 
     public void adjust() {
