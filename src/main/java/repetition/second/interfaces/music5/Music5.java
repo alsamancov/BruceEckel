@@ -1,6 +1,6 @@
 //: interfaces/music5/Music5.java
 // Interfaces.
-/**********************************************************
+/*************************************************************************
  * The interface keyword produces a
  * completely abstract class, one that provides no
  * implementation at all. It allows the creator to determine
@@ -56,7 +56,7 @@
  * declared as public, but they're automatically public
  * anyway:
  */
-package repetition.first.interfaces.music5;
+package repetition.second.interfaces.music5;
 
 import polymorphism.music.Note;
 
@@ -71,99 +71,58 @@ interface Instrument {
 }
 
 class Wind implements Instrument {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println(this + ".play() " + n);
     }
 
-    public String toString() {
-        return "Wind";
+    public String toString(){
+        return Wind.class.getSimpleName();
     }
 
-    public void adjust() {
+    public void adjust(){
         System.out.println(this + ".adjust()");
     }
 }
 
 class Percussion implements Instrument {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println(this + ".play() " + n);
     }
 
-    public String toString() {
-        return "Percussion";
+    public String toString(){
+        return Percussion.class.getSimpleName();
     }
 
-    public void adjust() {
+    public void adjust(){
         System.out.println(this + ".adjust()");
     }
 }
 
 class Stringed implements Instrument {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println(this + ".play() " + n);
     }
 
-    public String toString() {
-        return "Stringed";
+    public String toString(){
+        return Stringed.class.getSimpleName();
     }
 
-    public void adjust() {
-        System.out.println(this + ".ajust()");
+    public void adjust(){
+        System.out.println(this + ".adjust()");
     }
 }
 
 class Brass extends Wind {
-    public String toString() {
-        return "Brass";
+    public String toString(){
+        return Brass.class.getSimpleName();
     }
 }
 
 class Woodwind extends Wind {
-    public String toString() {
-        return "Woodwind";
+    public String toString(){
+        return Woodwind.class.getSimpleName();
     }
 }
 
 public class Music5 {
-    // Doesn't care about type, so new types
-    // added to the system still work right:
-    static void tune(Instrument i) {
-        // ...
-        i.play(Note.MIDDLE_C);
-    }
-
-    static void tuneAll(Instrument[] e) {
-        for (Instrument i : e) {
-            tune(i);
-        }
-    }
-
-    public static void main(String[] args) {
-        // Upcasting during addition to the array:
-        Instrument[] orchestra = {
-                new Wind(),
-                new Percussion(),
-                new Stringed(),
-                new Brass(),
-                new Woodwind()
-        };
-
-        tuneAll(orchestra);
-    }
 }
-
-/********************************************************
- * One other change has been made to this version of the
- * example: The what() method has been changed to
- * toString(), since that was how the method was being
- * used. Since toString() is part of the root class Object, it
- * doesn't need to appear in the interface.
- *
- * The rest of the code works the same. Notice that it doesn't
- * matter if you are upcasting to a "regular" class called
- * Instrument, an abstract class called Instrument, or to
- * an interface called Instrument. The behavior is the same.
- * In fact, you can see in the tune() method that there isn't
- * any evidence about whether Instrument is a "regular"
- * class, an abstract class, or an interface.
- */
