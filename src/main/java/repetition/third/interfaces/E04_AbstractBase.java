@@ -1,5 +1,5 @@
 //: interfaces/E04_AbstractBase.java
-/****************** Exercise 4 **********************
+/****************** Exercise 4 ***********************
  * Create an abstract class with no methods.
  * Derive a class and add a method. Create a
  * static method that downcasts a reference from
@@ -8,14 +8,14 @@
  * Eliminate the need for the downcast by moving
  * the abstract declaration to the base class.
  *****************************************************/
-package repetition.first.interfaces;
+package repetition.third.interfaces;
 
 abstract class NoMethods {
 }
 
 class Extended1 extends NoMethods {
     public void f() {
-        System.out.println("Extended1.f()");
+        System.out.println("Extended1.f");
     }
 }
 
@@ -25,7 +25,7 @@ abstract class WithMethods {
 
 class Extended2 extends WithMethods {
     public void f() {
-        System.out.println("Extended2.f()");
+        System.out.println("Extended2.f");
     }
 }
 
@@ -49,7 +49,7 @@ public class E04_AbstractBase {
     }
 }
 
-/*****************************************************************
+/*************************************************************
  * test1() needs the downcast to call f(), while test2()
  * doesn't need a downcast because f() is defined in the base
  * class.

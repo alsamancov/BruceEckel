@@ -1,10 +1,10 @@
 //: interfaces/E01_AbstractRodent.java
-/***************** Exercise 1 ***********************
+/***************** Exercise 1 **************************
  * Modify Exercise 9 in the previous chapter so
  * Rodent is an abstract class. Make the
  * methods of Rodent abstract whenever possible.
- **************************************************/
-package repetition.fourth.interfaces;
+ ************************************************/
+package repetition.sixth.interfaces;
 
 abstract class Rodent {
     public abstract void hop();
@@ -64,7 +64,7 @@ class Hamster extends Rodent {
     }
 
     public String toString() {
-        return "Hamster";
+        return Hamster.class.getSimpleName();
     }
 }
 
@@ -77,6 +77,6 @@ public class E01_AbstractRodent {
             r.reproduce();
             System.out.println(r);
         }
-    }
 
+    }
 }

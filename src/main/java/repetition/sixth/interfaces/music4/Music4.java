@@ -1,9 +1,12 @@
-package repetition.fifth.interfaces.music4;
-/***************************************************************
+package repetition.sixth.interfaces.music4;
+
+import polymorphism.music.Note;
+
+/**********************************************************
  * Instrument is to create a common interface for all the
  * classes derived from it.
  *
- * It establishes a basic form, so
+ * It established a basic form, so
  * that you can say what's common for all the derived classes.
  * Another what of saying this is to call Instrument an
  * abstract base class, or simply an abstract class.
@@ -46,8 +49,6 @@ package repetition.fifth.interfaces.music4;
  * Only some of the methods will be abstract, since making a class
  * abstract doesn't force you to make all the methods abstract.
  *************************************************************************/
-
-import polymorphism.music.Note;
 
 abstract class Instrument {
     private int i; //Storage allocated for each
@@ -99,46 +100,45 @@ class Stringed extends Instrument {
     }
 
     public void adjust() {
-
     }
 }
 
 class Brass extends Wind {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println("Brass.play() " + n);
     }
 
-    public void adjust() {
+    public void adjust(){
         System.out.println("Brass.adjust()");
     }
 }
 
 class Woodwind extends Wind {
-    public void play(Note n) {
+    public void play(Note n){
         System.out.println("Woodwind.play() " + n);
     }
 
-    public String what() {
+    public String what(){
         return "Woodwind";
     }
 }
 
 public class Music4 {
-    //Doesn't care about type, so new types
-    //added to the system still work right:
-    static void tune(Instrument i) {
-        //...
+    // Doesn't care about type, so new types
+    // added to the system still work right:
+    static void tune(Instrument i){
+        // ...
         i.play(Note.MIDDLE_C);
     }
 
-    static void tuneAll(Instrument[] e) {
-        for (Instrument i : e) {
+    static void tuneAll(Instrument[] e){
+        for (Instrument i : e){
             tune(i);
         }
     }
 
     public static void main(String[] args) {
-        //Upcasting during addition to the array:
+        // Upcasting during addition to the arrays:
         Instrument[] orchestra = {
                 new Wind(),
                 new Percussion(),
