@@ -1,11 +1,11 @@
 //: interfaces/E08_FastFood.java
 /****************** Exercise 8 ******************
- * Create an interface called FastFood (with
- * appropriate methods) in
- * polymorphism.Sandwich.java, and change Sandwich
- * so it also implements FastFood.
+ *  Create an interface called FastFood (with
+ *  appropriate methods) in
+ *  polymorphism.Sandwich.java, and change Sandwich
+ *  so it also implements FastFood.
  ***********************************************/
-package repetition.first.interfaces;
+package repetition.second.interfaces;
 
 import polymorphism.Sandwich;
 
