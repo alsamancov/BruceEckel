@@ -1,6 +1,6 @@
 //: interfaces/music5/Music5.java
 // Interfaces.
-/*************************************************************************
+/***********************************************************************
  * The interface keyword produces a
  * completely abstract class, one that provides no
  * implementation at all. It allows the creator to determine
@@ -10,7 +10,7 @@
  *
  * An interface says, "All classes that implement this particular
  * interface will look like this." This, any code that uses a
- * particular interface knows what methods might be called
+ * particular interface knows that methods might be called
  * for that interface, and that's all. So the interface is used to
  * establish a "protocol" between classes. (Some object-
  * oriented programming languages have a keyword called
@@ -55,17 +55,17 @@
  * In addition, none of the methods in Instrument are
  * declared as public, but they're automatically public
  * anyway:
- */
-package repetition.second.interfaces.music5;
+ ********************************************************************/
+package repetition.third.interfaces.music5;
 
 import polymorphism.music.Note;
 
 interface Instrument {
-    //Compile-time constant:
+    // Compile-time constant:
     int VALUE = 5; // static & final
 
-    // Cannot have method definitions:
-    void play(Note n); // Automatically public
+    // Cannot have method definition:
+    void play(Note n); //Automatically public
 
     void adjust();
 }
@@ -127,13 +127,13 @@ class Woodwind extends Wind {
 public class Music5 {
     // Doesn't care about type, so new types
     // added to the system still work right:
-    static void tune(Instrument i) {
+    static void tune(Instrument i){
         // ...
         i.play(Note.MIDDLE_C);
     }
 
-    static void tuneAll(Instrument[] e) {
-        for (Instrument i : e) {
+    static void tuneAll(Instrument[] e){
+        for(Instrument i : e){
             tune(i);
         }
     }
@@ -151,14 +151,14 @@ public class Music5 {
     }
 }
 
-/************************************************************************
+/***********************************************************************
  * One other change has been made to this version of the
  * example: The what() method has been changed to
  * toString(), since that was how the method was being
  * used. Since toString() is part of the root class Object, it
  * doesn't need to appear in the interface.
  *
- * The rest of the code works the same. Notice that it doesn't
+ * The rest of the works the same. Notice that it doesn't
  * matter if you are upcasting to a "regular" class called
  * Instrument, an abstract class called Instrument, or to
  * an interface called Instrument. The behavior is the same.
