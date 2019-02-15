@@ -1,0 +1,9 @@
+Introduction
+
+"The limits of my language are the limits of my world" - Wittgenstein.
+This is true of both spoken/written languages and programming languages.
+It's often subtle: A language gently guides you into certain modes of thought and away from others.
+Java is particularly opinionated.
+Java is a derived language.
+The original language designers didn't want to use C++ for a project, so created a new language which unsurprisingly looked a lot like C++, but with improvements (their original project never came to fruition).
+The core changes were the incorporation of a virtual machine and garbage collection, both of which are described in detail in this book.

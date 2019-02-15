@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b7e070-aae9-42bc-a3cd-3b1a3d4d841a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PHRASALVERBSCUT" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/second/interfaces/E10_PlayableMusic5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repetition/third/interfaces/E10_PlayableMusic5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/PHRASALVERBSCUT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/PHRASALVERBSCUT001" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/Present _continuous_tense" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/Present _continuous_tense2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/Present _continuous_tense3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/LeonardCohen.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene10" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene11" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene5" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene6" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene8" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/learnathome/MaskBallonScene9" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/onJava8/Introduction" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/shopaholic/MyThoughts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/shopaholic/dictionari" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/shopaholic/dictionari2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/shopaholic/shopaholic1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/shopaholic/shopaholic2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/voscreen/sentences" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -107,8 +128,38 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="PHRASALVERBSCUT" pinned="false" current-in-tab="true">
+          <file leaf-file-name="PHRASALVERBSCUT" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/PHRASALVERBSCUT">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sentences" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/EnglishLessons/voscreen/sentences">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PHRASALVERBSCUT001" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/PHRASALVERBSCUT001">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PHRASALVERBSCUT" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/PHRASALVERBSCUT">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -223,7 +274,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -276,6 +327,23 @@
               <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
               <item name="eckel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="EnglishLessons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="EnglishLessons" type="462c0819:PsiDirectoryNode" />
+              <item name="Grammar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -315,6 +383,7 @@
       <recent name="polymorphism.newshape" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AMANDA7i\eckel\src\main\java\EnglishLessons" />
       <recent name="D:\AMANDA7i\eckel\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -686,7 +755,7 @@
       <workItem from="1549027435298" duration="599000" />
       <workItem from="1549446097707" duration="10342000" />
       <workItem from="1549553953460" duration="21709000" />
-      <workItem from="1549962956690" duration="14819000" />
+      <workItem from="1549962956690" duration="15541000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;second commit&quot;">
       <created>1541506322402</created>
@@ -814,14 +883,21 @@
       <option name="project" value="LOCAL" />
       <updated>1550048240647</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&quot;new classes in interfaces chapter&quot;">
+      <created>1550154036708</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1550154036708</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125306000" />
+    <option name="totallyTimeSpent" value="126028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -837,7 +913,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2771855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2771855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -880,9 +956,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/source/polymorphism/PolyConstructors.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/polymorphism/E14_SharedRodentInitialization.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/interfaces/E05_ImplementInterface.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/solutions/generics/Store.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/source/access/ChocolateChip.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/solutions/reusing/Cartoon.java" />
@@ -1192,6 +1265,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PHRASALVERBSCUT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EnglishLessons/voscreen/sentences">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/PHRASALVERBSCUT001">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/PHRASALVERBSCUT">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
