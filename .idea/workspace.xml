@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4b7e070-aae9-42bc-a3cd-3b1a3d4d841a" name="Default" comment="&quot;english lessons&quot;">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/interfaces/AbstractAccess.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/interfaces/AbstractWithoutAbstracts.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/interfaces/AttemptToUseBasic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/interfaces/Basic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/interfaces/Basic2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/interfaces/Instantiable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/interfaces/music4/Music4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/polymorphism/music/Note.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onjava/Operations.java" />
+    <list default="true" id="d4b7e070-aae9-42bc-a3cd-3b1a3d4d841a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/onJava8/interfaces/PureInterface.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/PHRASALVERBSCUT001" afterPath="$PROJECT_DIR$/src/main/java/EnglishLessons/Grammar/PHRASALVERBSCUT001" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -108,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Music4.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Music4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/onJava8/interfaces/music4/Music4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -148,6 +139,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PureInterface.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/onJava8/interfaces/PureInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Operations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/onjava/Operations.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -166,9 +169,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -197,7 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/solutions/containers/E25_FullSimpleHashMap2.java" />
         <option value="$PROJECT_DIR$/src/main/java/solutions/generics/E11_NewTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/solutions/polymorphism/E12_RodentInitialization.java" />
         <option value="$PROJECT_DIR$/src/main/java/solutions/polymorphism/E14_SharedRodentInitialization.java" />
@@ -248,6 +250,7 @@
         <option value="$PROJECT_DIR$/src/main/java/onJava8/interfaces/AbstractAccess.java" />
         <option value="$PROJECT_DIR$/src/main/java/onJava8/polymorphism/music/Note.java" />
         <option value="$PROJECT_DIR$/src/main/java/onJava8/interfaces/music4/Music4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/onJava8/interfaces/PureInterface.java" />
       </list>
     </option>
   </component>
@@ -860,7 +863,7 @@
       <workItem from="1549027435298" duration="599000" />
       <workItem from="1549446097707" duration="10342000" />
       <workItem from="1549553953460" duration="21709000" />
-      <workItem from="1549962956690" duration="20864000" />
+      <workItem from="1549962956690" duration="21559000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;second commit&quot;">
       <created>1541506322402</created>
@@ -1002,11 +1005,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550243871411</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="&quot;english lessons&quot;">
+      <created>1550588497771</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1550588497771</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131351000" />
+    <option name="totallyTimeSpent" value="132046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1069,7 +1079,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/containers/E13_WordCounter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/solutions/containers/E08_SList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/source/polymorphism/Sandwich.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/source/polymorphism/ReferenceCounting.java" />
@@ -1534,6 +1543,16 @@
             <element signature="e#1685#1686#0" expanded="true" />
             <element signature="e#1727#1728#0" expanded="true" />
             <element signature="e#1760#1761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/onJava8/interfaces/PureInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#193#0" expanded="true" />
           </folding>
         </state>
       </provider>
